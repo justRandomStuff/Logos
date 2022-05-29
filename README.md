@@ -5,5 +5,3 @@ I try to learn css by re-creating famous companies logos. We will be recreating 
 
 This repo is of course for educational purposes.
 
-
-<img src="https://github.com/justRandomStuff/Logos/blob/main/google.png" />
