@@ -6,4 +6,4 @@ https://fonts.google.com/specimen/Titillium+Web<br>
 Logo colors Hex code :<br>
 https://usbrandcolors.com/facebook-colors/
 
-<img src="https://github.com/justRandomStuff/Logos/blob/main/google/google.png" />
+<img src="https://github.com/justRandomStuff/Logos/blob/main/Facebook/facebook.png" />
