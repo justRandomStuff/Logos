@@ -1,0 +1,21 @@
+body {
+    font-family: 'Titillium Web';
+    display: flex;
+    justify-content: center;
+}
+
+.f {
+    font-size: 400;
+    color: white;
+    margin-left: auto;
+    margin-right: 60px;
+    margin-top: -80px;
+}
+
+.container {
+    background-color: #4267B2;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    border-radius: 20px;
+}
